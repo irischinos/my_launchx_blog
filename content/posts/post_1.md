@@ -33,5 +33,5 @@ Y dentro de todo esto, me animo a compartir lo bien que me he sentido impulsánd
 la cantidad tan grande de información que hay que digerir en poco tiempo, pues me estresa; aunque, siendo honesta, es la parte agridulce de este aprendizaje y si no existiera
 esa parte no tan agradable, definitivamente no me encontraría tan enganchada a la tecnología.
 
-Por mi parte, seguiré desarrollándome ahora bajo la guía de Carlo Gilmar, nuestro MC de la sección Backend NodeJS... ¡No puedo esperar a hacer corajes pal darme cuenta de que
+Por mi parte, seguiré desarrollándome ahora bajo la guía de Carlo Gilmar, nuestro MC de la sección Backend NodeJS... ¡No puedo esperar a hacer corajes al darme cuenta de que
 no compila bien mi código! jajaja.
